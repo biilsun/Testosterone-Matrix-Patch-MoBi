@@ -45,7 +45,8 @@ Key variables are centralized into a single `Parameter Values` building block (`
 3. **Parameter Identification:** Use the MoBi PI module to optimize `Higuchi_k`, `K_v_m`, and `Enhancement_Factor`.
 
 ## 👨‍🔬 Authors & Provenance
-* **Original Skin Architecture:** This project is a derivative work based on the mechanistic dermal absorption model by *Dancik et al.*, provided by the [Open Systems Pharmacology (OSP) Suite](https://github.com/Open-Systems-Pharmacology).
+* **Original Skin Architecture:** This project is a derivative work based on the mechanistic dermal absorption model by *Dancik et al.* The original MoBi project file can be found in the official [OSP Skin-permeation-model Repository](https://github.com/Open-Systems-Pharmacology/Skin-permeation-model). The baseline thermodynamic QSPR architecture corresponds to:
+  > *Dancik, Y., Miller, M. A., Jaworska, J., & Kasting, G. B. (2013). Design and performance of a spreadsheet-based model for estimating bioavailability of chemicals from dermal exposure. Advanced Drug Delivery Reviews, 65(2), 221-236.*
 * **Matrix Patch Adaptation:** Refactoring, integration of Higuchi kinetics, and model reconfiguration by **Alexander Loginov** (2026).
 * ✉️ **Contact:** [biilsun81@gmail.com](mailto:biilsun81@gmail.com)
 
