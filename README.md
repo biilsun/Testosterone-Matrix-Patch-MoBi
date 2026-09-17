@@ -2,6 +2,7 @@
 
 ![OSP Suite](https://img.shields.io/badge/OSP%20Suite-v12.0-blue)
 ![MoBi](https://img.shields.io/badge/MoBi-Mechanistic%20Modeling-green)
+![License](https://img.shields.io/badge/License-GPL_v2.0-blue)
 
 > ⚠️ **IMPORTANT SCIENTIFIC WARNING:** This repository provides an **uncalibrated architectural proof-of-concept**. The parameter values included (e.g., Higuchi constant, Enhancement Factor = 10000) are structural placeholders intended ONLY to validate ODE solver stability and cross-compartment references. This model **must not** be used for clinical decision-making or regulatory submissions without rigorous, independent Parameter Identification (PI) against *in vivo* data.
 
