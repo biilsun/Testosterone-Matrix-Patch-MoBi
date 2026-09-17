@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this model or its architecture in your research, please cite it as below."
+title: "Mechanistic Testosterone Matrix Patch Template (MoBi)"
+authors:
+  - family-names: "Loginov"
+    given-names: "Alexander"
+    email: "biilsun81@gmail.com"
+year: 2026
+url: "https://github.com/biilsun/Testosterone-Matrix-Patch-MoBi"
